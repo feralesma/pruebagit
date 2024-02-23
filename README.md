@@ -1,2 +1,2 @@
 # pruebagit
-### Preubas de Git + GitHub
+### Pruebas de Git + GitHub
